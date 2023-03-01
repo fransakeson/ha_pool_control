@@ -1,0 +1,7 @@
+timer:
+  pool_timer_run:
+    duration: 600
+    name: Pool run timer
+  pool_timer_stop:
+    duration: 350
+    name: Pool stop timer
